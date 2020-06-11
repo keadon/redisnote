@@ -1,0 +1,2 @@
+# redisnote
+redis learning note
